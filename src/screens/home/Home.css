@@ -1,0 +1,8 @@
+/* 2 Column Grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.center {
+    padding-top: 20px;
+}
